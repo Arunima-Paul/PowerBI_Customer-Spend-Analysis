@@ -26,17 +26,27 @@ or could be accumulating debt. It presents both an opportunity and risk factor.
 
 Part 1: Key Data Insights
 
-Spending Patterns- - The highest spending categories are bills (₹17.49M), groceries (₹14.38M) and electronics (₹13.26M).
+Spending Patterns- The highest spending categories are bills (₹17.49M), groceries (₹14.38M) and electronics (₹13.26M).
 For payment methods credit cards being the most popular payment method overall.
+
+
+![TT2](https://github.com/user-attachments/assets/4e50056e-c9e9-4e0d-b66d-8bdc4d233473)
+
 
 Age-Based Analysis-Our data reveals fascinating age-based spending behaviors. 
 The 25-34 age group leads in total spending at ₹203M with spend-to-income ratio of 2.63. The 35-45 group follows closely at ₹190M but has the highest spend-to-income ratio overall at 2.80.
 Younger customers in the 21-24 range spend considerably less ₹68.52M with a moderate ratio of 2.43. 
 The 45+ age group also spends less -₹68.38M but shows the most conservative financial behavior with the lowest ratio of 2.10.
 
+![TT1](https://github.com/user-attachments/assets/8c3a78de-75ab-4a25-ab48-038d3f2ab521)
+
+
 Occupation-Based Analysis- Looking at spending by occupation reveals that Salaried IT Employees are our highest value segment, spending ₹243.72M with a spend-to-income ratio of 3.06. 
 Business Owners shows more balanced expenditure with ratio at 1.99, while Freelancers show a high ratio of 2.74 despite moderate income levels.
 Government Employees appear to be our most financially conservative customer segment with a ratio of 1.74.
+
+![TT4](https://github.com/user-attachments/assets/8a5060eb-c7a8-40b0-9fb4-9a9f11b6ac16)
+
 
 Customer Group Spending Analysis - 
 The "Avg. Spend by Customer Group" table reveals important segments beyond occupation:
@@ -51,6 +61,9 @@ July ₹80.62M, June ₹79.32M and reaching the lowest in May ₹68.14M.
 The decrease isn't linear. There's a notable drop between October ₹86.03M and July ₹80.62M, it suggests seasonal factors beyond just month-to-month variation.
 This seasonal variation is important for our promotional strategy.
 
+![TT3](https://github.com/user-attachments/assets/ca6e3dcf-2d8b-447d-ba58-d34387f15b2d)
+
+
 Part 2: New Credit Card Recommendation
 
 Introducing the "Smart Spend Tech Card"- a premium credit card specifically designed for tech professionals and digital enthusiasts.
@@ -62,13 +75,13 @@ Highest spend-to-income ratio (3.06),
 Strong preference for credit card payments,
 Significant presence in key metropolitan cities.
 
-Key Card Features - 1. 1.	Better Rewards for Tech Shopping- 5% cashback on electronics purchases-Electronics is a major spending category. 
+Key Card Features - 1. Better Rewards for Tech Shopping- 5% cashback on electronics purchases-Electronics is a major spending category. 
 Also for IT employees who are our primary target, electronics would be a particularly relevant category.
 Also Special financing for high-value tech purchases
-2.Lifestyle Benefits-Premium bill payment rewards, Grocery and health/wellness category benefits, Travel rewards with airport lounge access.
-3.Special Deals During Shopping Seasons - as spending increases during September and October, extra rewards will be offered during these months
+2. Lifestyle Benefits-Premium bill payment rewards, Grocery and health/wellness category benefits, Travel rewards with airport lounge access.
+3. Special Deals During Shopping Seasons - as spending increases during September and October, extra rewards will be offered during these months
 and special EMI options for larger purchases during these high-spending periods.
-4.Simple digital experience- The card will offer seamless integration with UPI platforms, which is the second most popular payment method after credit cards. 
+4. Simple digital experience- The card will offer seamless integration with UPI platforms, which is the second most popular payment method after credit cards. 
 It will include advanced spend analytics to help customers track and manage their expenditures.
 
 Implementation strategy-
