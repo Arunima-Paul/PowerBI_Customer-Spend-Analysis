@@ -1,7 +1,7 @@
 # PowerBI_Customer-Spending Behaviour-Analysis
 Data analysis using PowerBI for customer spending behaviour analysis to provide insights to the Product Strategy team in a Banking domain and final recommendation of a new line of credit card.
 
-Live Dashboard link- https://app.powerbi.com/groups/me/reports/802f8962-2a68-445d-b531-545456112c83/36f29ea46b030b2d2a68?experience=power-bi
+Live Dashboard link- https://app.powerbi.com/view?r=eyJrIjoiMGVkMDVlYTItMzZjNi00ZWY0LTliODQtNzc1YTk3NTAzNGZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 Video presentation link- https://www.youtube.com/embed/wE6sem1KYkg?si=qKmeWVxuEXFn025b
 
